@@ -1,0 +1,214 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573183703895@s.whatsapp.net',
+    fromMe: false,
+    id: 'F9BDFF13D3819632097C65DCD34CE3D9',
+    participant: undefined
+  },
+  messageTimestamp: 1731301170,
+  pushName: 'An',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '573183703895'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_136687f9-b5b3-4a3c-8713-100c0b97373e',
+  keyword: 'key_a538a34a-e10d-487d-b1bd-79c3fb15354f',
+  answer: '​🤖 Hola bienvenido a este *Chatbot*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '37c6f941fc2465edf4114ddf053d8b80'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_364643e5-df2b-411b-895c-b7928cdcfedf',
+  keyword: 'ans_136687f9-b5b3-4a3c-8713-100c0b97373e',
+  answer: '👋 Gracias por tu interés en nuestros cursos de Excel. Soy tu asistente virtual y estoy aquí para ayudarte a encontrar el curso ideal para ti. 😊 ¿Te gustaría saber más sobre el curso básico, intermedio o avanzado?\n' +
+    'Opciones de Respuesta (Escribe un número para llevarte a la opción)\n' +
+    '👇​\n' +
+    '👉1-[Curso Básico]\n' +
+    '👉2-[Curso Intermedio]\n' +
+    '👉3-[Curso Avanzado]',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bb04d34ee0d885da0c902dd2b13f2c7f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573183703895@s.whatsapp.net',
+    fromMe: false,
+    id: '8C0E4E1713CBCD32FDAA8B2027A7A228',
+    participant: undefined
+  },
+  messageTimestamp: 1731301175,
+  pushName: 'An',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '573183703895'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9ee7f4c9-f50b-410e-b0d0-e50731abcc30',
+  keyword: 'key_36749302-8928-43d4-9efe-d52924f3945c',
+  answer: '⭐Curso Básico⭐\n' +
+    '\n' +
+    'Descripción y Confirmación\n' +
+    '¡Perfecto! El curso básico de Excel es ideal para principiantes que quieren aprender las funciones principales, como funciones de texto, fecha y hora, lógicas, matemáticas, de conteo y de búsqueda y referencia. ¿Te gustaría recibir más detalles o tienes alguna pregunta específica?\n' +
+    'Opciones de Respuesta (Escribe un número para llevarte a la opción)\n' +
+    '👇​\n' +
+    '👉11-[Más Detalles]\n' +
+    '👉12-[Inscribirme]\n' +
+    '👉13-[Preguntar algo]\n' +
+    '👉14-[Menú principal]',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b0ad7317a6e662681d9bd382d400b229'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573183703895@s.whatsapp.net',
+    fromMe: false,
+    id: '269DF97B9817AFE65DFB3036003F2E61',
+    participant: undefined
+  },
+  messageTimestamp: 1731301179,
+  pushName: 'An',
+  broadcast: false,
+  message: Message {
+    conversation: '12',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '12',
+  from: '573183703895'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e69f0ae6-f567-4dd9-af58-f30fba7947e7',
+  keyword: 'key_5d757f26-33ce-4947-bfd8-420b42d3045a',
+  answer: 'Inscribirme\n' +
+    '🫶\n' +
+    '¡Genial! Para inscribirte, correo electrónico para enviarte los detalles.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0f61f08f756b4bfa8180cec2ae0c23a6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573183703895@s.whatsapp.net',
+    fromMe: false,
+    id: '5FED01B46DED38A7BB8A47CA0098595D',
+    participant: undefined
+  },
+  messageTimestamp: 1731301182,
+  pushName: 'An',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hgnk',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hgnk',
+  from: '573183703895'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573183703895@s.whatsapp.net',
+    fromMe: false,
+    id: 'EE7152723C9809D5220C7E97936166C9',
+    participant: undefined
+  },
+  messageTimestamp: 1731301192,
+  pushName: 'An',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ange',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Ange',
+  from: '573183703895'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573183703895@s.whatsapp.net',
+    fromMe: false,
+    id: '9D4B498BE1D217DF6DF0B9B70DF7AC98',
+    participant: undefined
+  },
+  messageTimestamp: 1731301206,
+  pushName: 'An',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ange@gmail.com',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Ange@gmail.com',
+  from: '573183703895'
+}
